@@ -1,4 +1,5 @@
 <template>
+<!-- 顾客管理 -->
     <div>
       <h2>顾客管理</h2>
         <el-button type="success" size="small"
